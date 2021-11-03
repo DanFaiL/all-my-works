@@ -1,0 +1,140 @@
+body{
+background-color: #606060;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: silver;
+}
+.Container{
+    width: 75%;
+    height: 800px;
+    background-color:whitesmoke;
+    border-radius: 30px;
+}
+h2{
+    position: relative;
+    left:20px;
+    top:20px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 70%;
+    background-color: white;
+    position: relative;
+    left: 10px;
+    padding-left: 20px;
+}
+div{
+    background-color: white;
+    border-radius: 10px;
+    width: 30%;
+}  
+.card-inner{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+} 
+.card1{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+.card2{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+.card3{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+.card4{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+.card5{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+.card6{
+    height: 15%;
+    box-shadow: 10px 5px 5px darkgray;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+    color:gray;
+    
+}
+.link{
+    text-align: center;
+    background-color: cornsilk;
+    border: 4px;
+    border-color:cornflowerblue;
+    border-radius: 50px 50px 50px 50px;
+}
+.card-inner2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+}
+.card-inner3{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+}
+.card-inner4{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+}
+.card-inner5{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+}
+.card-inner6{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    width: 60%;
+}
+hr{
+    width: 87%;
+}
+.cards:hover{
+background-color:#DCDCDC;
+}
+.Container:hover{
+background-color:#DCDCDC ;
+}
+h4{
+    color: lightslategray;
+    width: 30%;
+    border-radius: 50px 50px 50px 50px;
+    position: relative;
+left: 165px;
+bottom: 35px;
+}
+h4:hover{
+    background-color: goldenrod;
+}
